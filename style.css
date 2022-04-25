@@ -1,0 +1,11 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+}
+#tela{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
