@@ -1,3 +1,3 @@
 # Paint
-Uma versão em Javascript do famoso MS Paint 
-https://jaovitm.github.io/Paint/
+##My version in javascript of famous MS Paint 
+Demo: https://jaovitm.github.io/Paint/
